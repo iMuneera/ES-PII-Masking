@@ -1,0 +1,27 @@
+Company Report - General Information & PII Detection Training
+Employee Records
+Ahmed Al-Mansoor works in the IT department in Manama, Bahrain. His contact information is available at +973 3645 7890, and his email is ahmed.al-mansoor@company.bh.
+
+Fatima Al-Kuwari is located in Riffa, Bahrain, where she works in the HR department. You can contact her at +973 3776 5432, or reach her through her email at fatima.al-kuwari@company.bh. 
+
+Hassan Al-Fadhala works in Sales in Muharraq, Bahrain, and can be contacted via phone at +973 3398 1122. His email address is hassan.al-fadhala@company.bh.
+
+Noor Al-Mutawa, who works in Customer Support in Isa Town, Bahrain, is available at +973 3556 7788 and by email at noor.al-mutawa@company.bh. 
+
+Project Updates
+Project Alpha: Ongoing development of a new client portal.
+Project Beta: Final testing phase before product launch.
+Project Gamma: Research and development for AI-driven analytics.
+Next Quarter Goals: Expansion into new markets.
+Additional Information
+Security Policy Update: Employees must reset passwords every 90 days.
+Data Protection Measures: Implementing end-to-end encryption.
+Regulatory Compliance: Adhering to GDPR and CCPA guidelines.
+
+Test URL
+https://www.company.com/test-pii
+https://www.melios.com/test
+
+Company Vision
+Innovate and expand customer engagement.
+Strengthen data security measures.

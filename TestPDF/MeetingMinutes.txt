@@ -1,0 +1,99 @@
+Meeting Minutes
+Artificial Intelligence (AI), Machine Learning (ML), and Cybersecurity DiscussionDate: February 15, 2025Time: 10:00 AM - 1:30 PM (GMT+3)Location: Virtual Meeting via ZoomChairperson: Dr. Ahmed Al-KhalifaMinutes Taken by: Sarah Al-Dosari
+
+Attendees:
+Dr. Ahmed Al-Khalifa (Chairperson) - Email: ahmed.khalifa@bahraintech.com - Phone: +973 3214 5678
+
+Eng. Rashid Al-Fadhil - Email: rashid.fadhil@cybersecure.bh - Phone: +973 3987 6543
+
+Ms. Layla Al-Mansoori - Email: layla.mansoori@ai-ml.bh - Phone: +973 3998 4321
+
+Mr. Khalid Al-Mutawa - Email: khalid.mutawa@datasecure.bh - Phone: +973 3888 7766
+
+Dr. Hanan Al-Majed - Email: hanan.majed@ml-innovation.bh - Phone: +973 3777 1122
+
+Eng. Yousif Al-Naimi - Email: yousif.naimi@cyberai.bh - Phone: +973 3666 8899
+
+Dr. Noor Al-Kuwaiti - Email: noor.kuwaiti@bahrain-ai.com - Phone: +973 3555 3344
+
+Agenda:
+
+Introduction and Welcome Remarks
+
+Dr. Ahmed Al-Khalifa welcomed all attendees and introduced the objectives of the meeting.
+
+Discussion on the importance of integrating AI and ML with cybersecurity.
+
+AI and ML in Cybersecurity
+
+Presentation by Eng. Rashid Al-Fadhil on AI-driven cybersecurity solutions.
+
+Overview of how ML models can detect cyber threats in real time.
+
+Case study on AI-based anomaly detection in financial transactions.
+
+Demonstration of real-time phishing attack detection using AI.
+
+PII Masking and Data Security
+
+Ms. Layla Al-Mansoori explained the significance of protecting personally identifiable information (PII).
+
+Discussion on the use of encryption algorithms like AES-256 in securing sensitive data.
+
+Demonstration of a PII masking tool using NLP techniques.
+
+Challenges in balancing data privacy with accessibility in AI-driven applications.
+
+Challenges in AI-Driven Cybersecurity
+
+Dr. Hanan Al-Majed presented challenges related to adversarial attacks on AI models.
+
+Discussion on ethical hacking and AI-generated cyber threats.
+
+Need for continuous retraining of AI models to combat evolving cyber threats.
+
+Bahrain’s AI and Cybersecurity Policies
+
+Dr. Noor Al-Kuwaiti provided an overview of Bahrain’s national cybersecurity framework.
+
+Discussion on the Bahrain Personal Data Protection Law (PDPL) and its implications on AI models.
+
+Government initiatives supporting AI-driven cybersecurity solutions.
+
+Future Roadmap and Collaboration Opportunities
+
+Proposal to develop a centralized AI cybersecurity system for Bahrain’s banking sector.
+
+Potential partnerships between AI research institutions and cybersecurity firms.
+
+Formation of a task force to work on AI-driven cyber risk assessment.
+
+Q&A Session and Open Discussion
+
+Participants raised questions about the feasibility of AI-based security models in small enterprises.
+
+Eng. Yousif Al-Naimi shared insights on AI bias in cybersecurity applications.
+
+Debate on the ethical concerns surrounding AI surveillance in cybersecurity.
+
+Action Items and Next Steps
+
+Formation of a working group to explore AI-enhanced intrusion detection systems (IDS).
+
+Scheduling of a follow-up meeting in April 2025 to discuss progress.
+
+Research grant applications for AI and cybersecurity projects.
+
+Additional Resources and References:
+
+
+Bahrain’s PDPL Guidelines: https://www.dataguidance.com/legal-research/bahrain-data-protection-overview
+
+AI & Cybersecurity Research: https://www.nist.gov/artificial-intelligence
+
+Cybersecurity Threat Intelligence: https://www.cyberthreatalliance.org
+
+AI-Based Cybersecurity Report: http://win-free-money-now.top/
+
+Minutes Prepared by: Sarah Al-DosariApproved by: Dr. Ahmed Al-Khalifa
+
