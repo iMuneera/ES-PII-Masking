@@ -6,6 +6,13 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 
 # nlp1 = spacy.load("bahraini_phone_number_model")
+try:
+    spacy.load("en_core_web_lg")
+except OSError:
+    from spacy.cli import download
+    download("en_core_web_lg")
+    spacy.load("en_core_web_lg")
+
 nlp=spacy.load("en_core_web_lg")
 
 def PIICheck(text_data, filename):
