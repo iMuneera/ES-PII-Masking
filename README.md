@@ -1,8 +1,6 @@
 # ES-PII Masking
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a0d27016-ef2a-4565-850c-7b1bd5aea4f8" width="400" />
-</p>
+
 
 ## 🚀 Overview
 
