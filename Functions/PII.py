@@ -5,7 +5,8 @@ from Functions.URLcheeker import URL_Cheeker
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 
-nlp = spacy.load("bahraini_phone_number_model")
+# nlp1 = spacy.load("bahraini_phone_number_model")
+nlp=spacy.load("en_core_web_lg")
 
 def PIICheck(text_data, filename):
     ENCRYPTED_DIR = "ProcessedFiles/encrypted"
