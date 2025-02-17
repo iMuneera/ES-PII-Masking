@@ -1,0 +1,7 @@
+# Ignore Python cache files
+Functions/__pycache__
+Functions/__pycache__/PII.cpython-312.pyc
+.env
+Functions/__pycache__/PII.cpython-312.pyc
+Test
+bahraini_phone_number_model
